@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  background: black;
+}
+
+.wrapper {
+  height: 96vh;
+  background: #424949;
+  display: flex;
+  justify-content: center;
+  width: 450px;
+  border-radius: 3%
+}
+
+.info {
+  width: 420px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stat {
+  color: #7F8C8D;
+}
+
+span {
+  border-radius: 4px;
+  padding: 5px;
+  background: #17202A;
+  color: #CCD1D1
+}
+      
+canvas {
+  border: 10px solid #383838;
+  border-radius: 10px;
+  background: #17202A;
+}
+      
